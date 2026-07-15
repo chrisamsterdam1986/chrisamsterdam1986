@@ -49,12 +49,13 @@ Live, clickable product experiences built for Dutch retail brands — AI-assiste
 
 - **Rituals — Product Page Innovations** — Four live PDP experiments: [Subscribe & Save](https://rituals-poc-1.vercel.app) · [Routine Builder](https://rituals-poc-2.vercel.app) · [The Journey](https://rituals-poc-3.vercel.app) · [Mind Oasis](https://rituals-poc-4.vercel.app)
 - **[HEMA — Feestplanner](https://feestplanner.vercel.app)** — Smart party planner: pick an event, set guests & budget, get a ready-to-shop basket
-- **[Intersport — Your Fit](https://intersport-poc.replit.app)** — AI virtual try-on: upload a photo and see yourself in the sportswear
-- **[by-bar — Your Fit](https://bybar-pragmai.replit.app)** — Virtual try-on for fashion label by-bar, designed to cut return rates
+- **[Intersport — Your Fit](https://intersport-poc.vercel.app)** — AI virtual try-on: upload a photo and see yourself in the sportswear
+- **[by-bar — Your Fit](https://bybar-pragmai.vercel.app)** — Virtual try-on for fashion label by-bar, designed to cut return rates
 - **[Jumbo Sports — Golf Keuzehulp](https://jumbosports-poc.vercel.app)** — Six-step quiz matching golfers to their ideal gear with match percentages
 - **[Athlon — Lease Extension](https://athlon-poc.vercel.app)** — Extend a car lease in three transparent steps
 - **[Jeans Centre — JC Friends](https://jeans-center-friends-rewards.vercel.app)** — Gamified loyalty PWA with points, challenges & tiers · also [Perfect Fit](https://jeans-centre-perfect-fit.vercel.app) · [Campaign Page](https://jeans-centre-new-campaign.vercel.app)
 - **[SKINS — Skin Advisor](https://skins-pragmai.vercel.app)** — Guided skin analysis that composes a personalized skincare routine · also [Advent Calendar](https://advent-calendar-poc.vercel.app)
+- **[Sawiday — Voorraad Management](https://sawiday-pragmai.vercel.app)** — Stock & order management prototype for bathroom retailer Sanitairwinkel.nl
 - **[EKI — Product Recommender](https://eki-recommender-poc.replit.app)** — AI chat that finds the right rubber & foam products
 
 ### Apps & Prototypes

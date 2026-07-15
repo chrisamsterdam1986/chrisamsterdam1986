@@ -41,7 +41,21 @@ Principal digital designer with 10+ years shaping products for **Amazon, Disney,
 
 - **[EKI — Lead Qualification Tool](https://eki-lead-qualification-tool.vercel.app)** — Enriches Odoo leads via VIES, web search & Claude, then classifies B2B prospects
 - **[PragmAI — Playground](https://github.com/chrisamsterdam1986/pragmai_playground)** — RAG chatbots, text-to-SQL dashboards & FAISS recommenders
-- **[Shimano — AI Hub](https://github.com/chrisamsterdam1986/Replit-Shimano-Hub)** — AI assistant for Shimano components with RAG and vision search
+- **[Shimano — AI Hub](https://github.com/chrisamsterdam1986/Replit-Shimano-Hub)** — AI assistant for Shimano components with RAG and vision search · [live demo](https://shimano.pragmai.nl)
+
+### AI Retail Prototypes
+
+Live, clickable product experiences built for Dutch retail brands — AI-assisted prototyping from idea to shareable demo.
+
+- **Rituals — Product Page Innovations** — Four live PDP experiments: [Subscribe & Save](https://rituals-poc-1.vercel.app) · [Routine Builder](https://rituals-poc-2.vercel.app) · [The Journey](https://rituals-poc-3.vercel.app) · [Mind Oasis](https://rituals-poc-4.vercel.app)
+- **[HEMA — Feestplanner](https://feestplanner.vercel.app)** — Smart party planner: pick an event, set guests & budget, get a ready-to-shop basket
+- **[Intersport — Your Fit](https://intersport-poc.replit.app)** — AI virtual try-on: upload a photo and see yourself in the sportswear
+- **[by-bar — Your Fit](https://bybar-pragmai.replit.app)** — Virtual try-on for fashion label by-bar, designed to cut return rates
+- **[Jumbo Sports — Golf Keuzehulp](https://jumbosports-poc.replit.app)** — Six-step quiz matching golfers to their ideal gear with match percentages
+- **[Athlon — Lease Extension](https://athlon-poc.replit.app)** — Extend a car lease in three transparent steps
+- **[Jeans Centre — JC Friends](https://jeans-center-friends-rewards.replit.app)** — Gamified loyalty PWA with points, challenges & tiers · also [Perfect Fit](https://jeans-centre-perfect-fit.replit.app) · [Campaign Page](https://jeans-centre-new-campaign.replit.app)
+- **[SKINS — Skin Advisor](https://skins-pragmai.replit.app)** — Guided skin analysis that composes a personalized skincare routine · also [Advent Calendar](https://advent-calendar-poc.replit.app)
+- **[EKI — Product Recommender](https://eki-recommender-poc.replit.app)** — AI chat that finds the right rubber & foam products
 
 ### Apps & Prototypes
 
